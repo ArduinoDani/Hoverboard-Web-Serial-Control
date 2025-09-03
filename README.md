@@ -5,7 +5,8 @@ The tool doesn't need installation and is accessible via this link.<br>
 https://candas1.github.io/Hoverboard-Web-Serial-Control/
 
 https://candas1.github.io/Hoverboard-Web-Serial-Control/
-https://ArduinoDani.github.io/Hoverboard-Web-Serial-Control
+
+https://ArduinoDani.github.io/Hoverboard-Web-Serial-Control/
 
 It works with USART serial protocol and USART DEBUG in following firmware:<br>
 https://github.com/EmanuelFeru/hoverboard-firmware-hack-FOC
