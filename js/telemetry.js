@@ -1,7 +1,7 @@
 class Telemetry extends EventTarget{
   constructor() {
     super();
-    this.wheelRadiusCm = 8;
+    this.wheelRadiusCm = 14;
     this.batV = 0;
     this.temp = 0;
     this.cmd1 = 0;
