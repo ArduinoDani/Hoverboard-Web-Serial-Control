@@ -3,7 +3,7 @@
 Web tool to control hoverboard, log and plot output data through a simple webpage.<br>
 The tool doesn't need installation and is accessible via this link.<br>
 
-https://arduinodani.github.io/Hoverboard-Web-Serial-Control/
+https://arduinodani.github.io/
 
 It works with USART serial protocol and USART DEBUG in following firmware:<br>
 https://github.com/EmanuelFeru/hoverboard-firmware-hack-FOC
